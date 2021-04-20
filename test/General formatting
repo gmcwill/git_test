@@ -1,0 +1,7 @@
+git init
+git add . 
+git config
+ls
+ls -l
+git reset
+touch new.file.test
